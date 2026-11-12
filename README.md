@@ -15,6 +15,12 @@ My niche is **native-quality customer-facing AI in Hebrew and Arabic**: RTL, pro
 - **The platform underneath**: 100+ production n8n workflows, monitoring, safety nets, deploy and test discipline
 - **AI-assisted engineering**: Claude Code as my day-to-day engineering partner, with a memory system, custom skills and production guardrails
 
+### Open source
+
+| Repo | What it does |
+|---|---|
+| 🛡️ [**hebrew-arabic-guards**](https://github.com/123idog/hebrew-arabic-guards) | Dependency-free guards that stop a chatbot from sending broken Hebrew or Arabic: English leaks, prompt leaks, mojibake, Arabic/Hebrew whole-word matching, name cleaning. Tested, CI on Node 18–22 |
+
 ### Writing
 
 | Repo | What's inside |
