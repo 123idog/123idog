@@ -39,4 +39,4 @@ Hebrew · English · building AI for Arabic-speaking markets
 ---
 
 📫 [LinkedIn](https://www.linkedin.com/in/ido-guy)
-<!-- Optional: 🌐 [AutoFlow](https://auto-flow.co.il) -->
+🌐 [AutoFlow](https://auto-flow.co.il): my automation consulting brand
