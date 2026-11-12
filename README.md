@@ -23,6 +23,8 @@ My niche is **native-quality customer-facing AI in Hebrew and Arabic**: RTL, pro
 | 🤖 [**Claude Code for Automation Engineers**](https://github.com/123idog/claude-code-for-automation-engineers) | How I run a production stack with Claude Code: operating model, CLAUDE.md, memory, skills and guardrails |
 | 💬 [**WhatsApp AI Agent Design**](https://github.com/123idog/whatsapp-ai-agent-design) | Designing and operating production WhatsApp sales agents: methodology first, output guards, human handoff, CRM state, safety nets |
 | 📊 [**LLM Evaluation in Production**](https://github.com/123idog/llm-evaluation-in-production) | How to know whether an AI agent actually works: what to measure, measurement hygiene, replay, shadow mode, LLM-as-judge, observability |
+| 🌍 [**LLMs for Hebrew and Arabic in Production**](https://github.com/123idog/llm-for-hebrew-and-arabic) | What breaks when customer-facing AI speaks Hebrew or Arabic: encoding, language guards, dialect, names, classification, voice |
+| ☁️ [**AI and Automation on Salesforce**](https://github.com/123idog/sales-ai-salesforce) | Connecting AI agents to a live sales org: writes the org overwrites, attribution, push triggers, rep alerts, safe bulk updates |
 
 ### How I work
 
