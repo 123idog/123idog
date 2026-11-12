@@ -21,6 +21,7 @@ My niche is **native-quality customer-facing AI in Hebrew and Arabic**: RTL, pro
 |---|---|
 | 📘 [**n8n Production Playbook**](https://github.com/123idog/n8n-production-playbook) | Lessons from running 100+ live workflows: silent failures, memory blowups, race conditions, API behaviour the docs don't mention |
 | 🤖 [**Claude Code for Automation Engineers**](https://github.com/123idog/claude-code-for-automation-engineers) | How I run a production stack with Claude Code: operating model, CLAUDE.md, memory, skills and guardrails |
+| 💬 [**WhatsApp AI Agent Design**](https://github.com/123idog/whatsapp-ai-agent-design) | Designing and operating production WhatsApp sales agents: methodology first, output guards, human handoff, CRM state, safety nets |
 
 ### How I work
 
