@@ -20,6 +20,8 @@ My niche is **native-quality customer-facing AI in Hebrew and Arabic**: RTL, pro
 | Repo | What it does |
 |---|---|
 | 🛡️ [**hebrew-arabic-guards**](https://github.com/123idog/hebrew-arabic-guards) | Dependency-free guards that stop a chatbot from sending broken Hebrew or Arabic: English leaks, prompt leaks, mojibake, Arabic/Hebrew whole-word matching, name cleaning. Tested, CI on Node 18–22 |
+| 🔍 [**n8n-workflow-linter**](https://github.com/123idog/n8n-workflow-linter) | Offline linter for n8n workflows: catches the bugs that don't throw errors (stray `=` expressions, capped Data Table reads, missing retries, broken node references, hard-coded secrets) before deploy |
+| 📈 [**llm-eval-kit**](https://github.com/123idog/llm-eval-kit) | Regression testing for chatbots and LLM agents: repeated runs, flaky-case detection, judge-noise measurement, case-by-case comparison between versions, CI gate on regressions |
 
 ### Writing
 
