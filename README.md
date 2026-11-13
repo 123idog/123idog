@@ -22,6 +22,7 @@ My niche is **native-quality customer-facing AI in Hebrew and Arabic**: RTL, pro
 | 🛡️ [**hebrew-arabic-guards**](https://github.com/123idog/hebrew-arabic-guards) | Dependency-free guards that stop a chatbot from sending broken Hebrew or Arabic: English leaks, prompt leaks, mojibake, Arabic/Hebrew whole-word matching, name cleaning. Tested, CI on Node 18–22 |
 | 🔍 [**n8n-workflow-linter**](https://github.com/123idog/n8n-workflow-linter) | Offline linter for n8n workflows: catches the bugs that don't throw errors (stray `=` expressions, capped Data Table reads, missing retries, broken node references, hard-coded secrets) before deploy |
 | 📈 [**llm-eval-kit**](https://github.com/123idog/llm-eval-kit) | Regression testing for chatbots and LLM agents: repeated runs, flaky-case detection, judge-noise measurement, case-by-case comparison between versions, CI gate on regressions |
+| 💰 [**llm-cost-report**](https://github.com/123idog/llm-cost-report) | What an LLM app really costs per conversation and per result, from Langfuse traces: uncached prompts, oversized models, failed calls, runaway conversations, and a CI gate on cost per result |
 
 ### Writing
 
@@ -30,7 +31,7 @@ My niche is **native-quality customer-facing AI in Hebrew and Arabic**: RTL, pro
 | 📘 [**n8n Production Playbook**](https://github.com/123idog/n8n-production-playbook) | Lessons from running 100+ live workflows: silent failures, memory blowups, race conditions, API behaviour the docs don't mention |
 | 🤖 [**Claude Code for Automation Engineers**](https://github.com/123idog/claude-code-for-automation-engineers) | How I run a production stack with Claude Code: operating model, CLAUDE.md, memory, skills and guardrails |
 | 💬 [**WhatsApp AI Agent Design**](https://github.com/123idog/whatsapp-ai-agent-design) | Designing and operating production WhatsApp sales agents: methodology first, output guards, human handoff, CRM state, safety nets |
-| 📊 [**LLM Evaluation in Production**](https://github.com/123idog/llm-evaluation-in-production) | How to know whether an AI agent actually works: what to measure, measurement hygiene, replay, shadow mode, LLM-as-judge, observability |
+| 📊 [**LLM Evaluation in Production**](https://github.com/123idog/llm-evaluation-in-production) | How to know whether an AI agent actually works: what to measure, measurement hygiene, replay, shadow mode, LLM-as-judge, observability, cost per result |
 | 🌍 [**LLMs for Hebrew and Arabic in Production**](https://github.com/123idog/llm-for-hebrew-and-arabic) | What breaks when customer-facing AI speaks Hebrew or Arabic: encoding, language guards, dialect, names, classification, voice |
 | ☁️ [**AI and Automation on Salesforce**](https://github.com/123idog/sales-ai-salesforce) | Connecting AI agents to a live sales org: writes the org overwrites, attribution, push triggers, rep alerts, safe bulk updates |
 
