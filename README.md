@@ -15,6 +15,27 @@ My niche is **native-quality customer-facing AI in Hebrew and Arabic**: RTL, pro
 - **The platform underneath**: 100+ production n8n workflows, monitoring, safety nets, deploy and test discipline
 - **AI-assisted engineering**: Claude Code as my day-to-day engineering partner, with a memory system, custom skills and production guardrails
 
+### Selected work
+
+**🤖 WhatsApp sales agent: 3 in 4 inquiries handled end-to-end**
+A Hebrew-speaking agent that qualifies inbound leads on WhatsApp, remembers customers across sessions, writes to the CRM and hands off to sales when a human is needed.
+- **~75% of inquiries** closed with no human agent involved
+- The bot was offline for 11 days, which gave a natural A/B test: first reply within 5 minutes **92% vs 30%**, after-hours messages left unanswered **under 1% vs 27%**
+- Leads reaching a sales opportunity within 14 days: **48% vs 33%**
+
+**📞 AI call analysis in Hebrew and Arabic**
+Every sales call is transcribed, scored against a rubric written with the sales managers, and summarised into CRM fields the reps actually use.
+- **~2,000 calls a month** at about **$0.11 per call**
+- **500+ hours of audio** a month reviewed that nobody had time to listen to
+- Separate Arabic rubric, refined over three rounds of feedback with the Arabic sales team
+- High-scoring leads trigger a **real-time pop-up** for team leaders inside Salesforce
+
+**⚙️ Lead intake and attribution across every channel**
+Web forms, landing pages, Meta and Google ads, and click-to-WhatsApp feed one normalised flow into Salesforce.
+- **~80% of ~3,000 monthly leads** created automatically, with clean phone numbers and campaign attribution
+- Found that hidden form fields stamped the same stale campaign on every submission. Fixed going forward and corrected **~600 historical records**
+- Automation across the stack saves an estimated **~300 hours a month (≈1.7 FTE)**, based on measured agent handling time
+
 ### Open source
 
 | Repo | What it does |
