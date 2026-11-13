@@ -1,18 +1,19 @@
 ## Hi, I'm Ido 👋
 
-**AI Engineer: production conversational AI and automation for sales and customer-service teams.**
+**AI & Automation Engineer: I design and ship end-to-end AI solutions for sales and operations teams.**
 
-I build AI agents that talk to real customers on WhatsApp and write back into the systems of record (CRM, internal APIs, data tables), plus the automation platform that keeps them running.
+I take a business process (lead intake, sales calls, customer conversations, reporting) and turn it into a production system: workflows, integrations, AI where it earns its place, and measurement that proves it works and what it costs.
 
-My niche is **native-quality customer-facing AI in Hebrew and Arabic**: RTL, prompts tuned per language and market rather than translated from English, running in production.
+My edge: systems that run in **Hebrew and Arabic** markets, where most AI tooling assumes English.
 
 ---
 
 ### What I build
 
-- **Conversational AI agents**: WhatsApp and Messenger bots with durable cross-session customer memory, human handoff, qualification logic, RAG over a product catalog, and OCR/voice on inbound messages
-- **CRM automation**: lead intake and attribution, status rules, call analysis and scoring, real-time alerts for sales teams
-- **The platform underneath**: 100+ production n8n workflows, monitoring, safety nets, deploy and test discipline
+- **Workflow automation**: 100+ production n8n workflows across CRM, messaging, marketing and operations, with monitoring, safety nets, deploy and test discipline
+- **CRM automation and integrations**: lead intake and attribution, status rules, real-time alerts, safe bulk operations on Salesforce
+- **AI in the process**: AI agents on WhatsApp and Messenger, call analysis and scoring, classification and extraction that write back into the systems of record
+- **Measurement**: evaluation, cost per result and before/after studies, so every system has a number behind it
 - **AI-assisted engineering**: Claude Code as my day-to-day engineering partner, with a memory system, custom skills and production guardrails
 
 ### Selected work
