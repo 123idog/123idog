@@ -37,6 +37,19 @@ Web forms, landing pages, Meta and Google ads, and click-to-WhatsApp feed one no
 - Found that hidden form fields stamped the same stale campaign on every submission. Fixed going forward and corrected **~600 historical records**
 - Automation across the stack saves an estimated **~300 hours a month (≈1.7 FTE)**, based on measured agent handling time
 
+### Featured code
+
+**💬 [whatsapp-agent-service](https://github.com/123idog/whatsapp-agent-service)**: a reference implementation of a production WhatsApp AI agent in Python, built around what breaks in real traffic rather than the happy path.
+
+- **Idempotent webhooks:** a redelivered message gets the stored reply, with no second LLM call and no duplicate lead
+- **Per-conversation locking** in Postgres, so a burst of messages is answered in order
+- **Durable customer memory** that survives restarts. CI restarts the container mid-conversation and checks
+- **Hebrew/Arabic output guards:** wrong language, English leaks, placeholders, tool-name leaks. A failed reply gets one rewrite, then a safe fallback and a human handoff
+- **Model retries** with backoff and `Retry-After`, a fallback model, and cost tracked per turn
+- **Multi-turn scenario evals in CI**, and a manual job against a real model
+
+`Python` · `FastAPI` · `PostgreSQL` · `Docker` · `GitHub Actions` · 61 tests on Python 3.11–3.13
+
 ### Open source
 
 | Repo | What it does |
@@ -66,7 +79,7 @@ Web forms, landing pages, Meta and Google ads, and click-to-WhatsApp feed one no
 
 ### Stack
 
-`n8n` · `Claude Code` · `MCP` · `Gemini` · `OpenAI` · `Salesforce` · `WhatsApp Business API` · `Langfuse` · `Node.js` · `REST APIs` · `Docker` · `WordPress`
+`Python` · `FastAPI` · `PostgreSQL` · `n8n` · `Claude Code` · `MCP` · `Gemini` · `OpenAI` · `Salesforce` · `WhatsApp Business API` · `Langfuse` · `Node.js` · `REST APIs` · `Docker` · `GitHub Actions` · `WordPress`
 
 ### Languages
 
