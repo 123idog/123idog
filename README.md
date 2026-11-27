@@ -59,7 +59,6 @@ Web forms, landing pages, Meta and Google ads, and click-to-WhatsApp feed one no
 | 📈 [**llm-eval-kit**](https://github.com/123idog/llm-eval-kit) | Regression testing for chatbots and LLM agents: multi-turn replay with the bot's own history, repeated runs, flaky-case detection, judge-noise measurement, case-by-case comparison, CI gate on regressions |
 | 💰 [**llm-cost-report**](https://github.com/123idog/llm-cost-report) | What an LLM app really costs per conversation and per result, from Langfuse traces: uncached prompts, oversized models, failed calls, runaway conversations, and a CI gate on cost per result |
 
-<!-- Hidden until these repos are public (links would 404 for visitors).
 ### Writing
 
 | Repo | What's inside |
@@ -71,7 +70,6 @@ Web forms, landing pages, Meta and Google ads, and click-to-WhatsApp feed one no
 | 🌍 [**LLMs for Hebrew and Arabic in Production**](https://github.com/123idog/llm-for-hebrew-and-arabic) | What breaks when customer-facing AI speaks Hebrew or Arabic: encoding, language guards, dialect, names, classification, voice |
 | 🧭 [**Bot Operations Portal**](https://github.com/123idog/bot-operations-portal) | Designing a portal where non-technical team leads run their AI agents: modules not bots, versioned config with approvals, a keyed runtime contract, permissions in the database |
 | ☁️ [**AI and Automation on Salesforce**](https://github.com/123idog/sales-ai-salesforce) | Connecting AI agents to a live sales org: writes the org overwrites, attribution, push triggers, rep alerts, safe bulk updates |
--->
 
 ### How I work
 
